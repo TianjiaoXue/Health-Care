@@ -1,0 +1,2 @@
+userinterface.ManufactureRole.ManufactureWorkAreaJPanel
+userinterface.ManufactureRole.ManufactureWorkAreaJPanel$1
